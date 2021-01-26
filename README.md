@@ -1,4 +1,4 @@
-# ultimateraid - discord bot
+# ultimateraid - discord bot  (first repo so sorry if its not done well ^^')
 (JS) Ultimateraid is the ultimate raid bot for discord ! (Educational purpose)
 
 How to use:

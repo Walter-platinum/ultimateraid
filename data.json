@@ -1,0 +1,10 @@
+{
+    "prefix":"Your Prefix Here",
+    "token":"Your Token Here",
+    "owner":"749955749462933554",
+    "toSendMessage":"Message to send when spamming (dont forget to write @everyone if you want to ping)",
+    "dmMessage":"Message to dm when dming everyone",
+    "channel":"Channel name when creating mass channels (only works if you write it like that: name-of-channel)", 
+    "role":"Role name when creating mass roles",
+    "discord":"Your discord link, that you wanna spam / send"
+}

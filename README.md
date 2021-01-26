@@ -17,14 +17,14 @@ If the bot appears offline, it's ok, he is still online if you have your console
 Help command:
 
 A help command will be added soon, but for now, it will be here:
-    - add {amount} : adds the amount you want of channels & roles (if no amount provided, will just add 50)
-    - del : deletes all channels & roles
-    - admin : creates an admin role for each member and gives it to him
-    - ban : bans every member from the server 
-    - gay : creates a channel for every member and tells him that he is gay 20 times in it
-    - guildname : changes the guild name with the discord you provided in data.json
-    - jul : pms everone with a jul picture and your discord 
-    - nick : nicks everyone in the server with the discord you provided in data.json
-    - spam : spams the message you provided in data.json
-    - total : does everything; deletes all channels, creates more, spams...
+    add {amount} : adds the amount you want of channels & roles (if no amount provided, will just add 50)
+    del : deletes all channels & roles
+    admin : creates an admin role for each member and gives it to him
+    ban : bans every member from the server 
+    gay : creates a channel for every member and tells him that he is gay 20 times in it
+    guildname : changes the guild name with the discord you provided in data.json
+    jul : pms everone with a jul picture and your discord 
+    nick : nicks everyone in the server with the discord you provided in data.json
+    spam : spams the message you provided in data.json
+    total : does everything; deletes all channels, creates more, spams...
 

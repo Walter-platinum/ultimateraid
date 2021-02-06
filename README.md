@@ -14,9 +14,7 @@ Warning:
   
 If the bot appears offline, it's ok, he is still online if you have your console opened
 
-Help command:
-
-A help command will be added soon, but for now, it will be here:
+Help command has been added, but it is here if you need it :
 
     add {amount} : adds the amount you want of channels & roles (if no amount provided, will just add 50)
     del : deletes all channels & roles

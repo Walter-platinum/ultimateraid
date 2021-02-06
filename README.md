@@ -3,16 +3,18 @@
 
 How to use:
   
-  Run the install.bat file
-  When it's finished, open the data.json file, and replace everything wtih what you want
-  Then, just run the run.bat file, and if everything is ok, the bot should start correctly
+  Run the install.bat file,
+  When it's finished, open the data.json file, and replace everything wtih what you want,
+  Then, just run the run.bat file, and if everything is ok, the bot should start correctly,
   If you have any errors, you can contact me by discord: (0x38) Space#1234 (If my tag is not working, get any channel and send <@749955749462933554> , it will ping me and you will be able to friend request me.
   
 Warning:
 
-  Soemtimes, the console can get spammed, when the bot is trying to send a message in a channel that doesn't exists anymore, this will be patched soon, but if it does that, you can juste close and run again the run.bat, it'll restart the bot
+  Soemtimes, the console can get spammed, when the bot is trying to send a message in a channel that doesn't exists anymore, this will be patched soon, but if it does that, you can juste close and run again the run.bat, it'll restart the bot.
   
-If the bot appears offline, it's ok, he is still online if you have your console opened
+If the bot appears offline, it's ok, he is still online if you have your console opened.
+
+Last thing if you're scared if the .bat files, you're free to open them with a text editor, you will see there is nothing harmful.
 
 Help command has been added, but it is here if you need it :
 

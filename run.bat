@@ -1,6 +1,6 @@
 title Ultimateraid Console
 color 2
-echo off
+echo on
 cls
 node index.js
 pause>nul
